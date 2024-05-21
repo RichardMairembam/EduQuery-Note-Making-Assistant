@@ -2,7 +2,7 @@ import streamlit as st
 import langchain_helper as lch
 import textwrap
 
-st.title("Youtube Assistant")
+st.title("Edu Query: 📚🧑‍🎓👨🏻‍🎓⏱️💻⏳")
 
 with st.sidebar:
     with st.form(key='my_form'):
